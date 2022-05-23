@@ -174,5 +174,5 @@ def postLog():
     except Exception as e:
         raise InternalServerError
     
-app.run(debug=True, port=5000)
+app.run(debug=True, port=52849)
 
