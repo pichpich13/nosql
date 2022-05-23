@@ -1,1 +1,1 @@
-web: gunicorn final.ipynb:app
+web: gunicorn app:app
